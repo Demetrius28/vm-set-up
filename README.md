@@ -8,7 +8,7 @@ This tutorial outlines the set up for Microsoft Remote Desktop to connect to an 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure
-- Microsoft Remote Desktop (installed on Mac)
+- Microsoft Remote Desktop
 
 <h2>Installation Steps</h2>
 
