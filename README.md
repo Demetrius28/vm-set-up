@@ -41,12 +41,10 @@ Locate the VM's Public IP address, and Copy it (you may be able to hover over it
 <br />
 
 <p>
-<img src="https://i.imgur.com/VZp4Mn9.png" height="40%" width="40%" alt="Open Remote Desktop"/>  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;     <img src="https://i.imgur.com/8opqyPp.png" height="40%" width="40%" alt="Enter Password"/>
+   &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;     <img src="https://i.imgur.com/8opqyPp.png" height="40%" width="40%" alt="Enter Password"/>
 </p>
 <p>
-4. Double click to open the new Remote Desktop PC
-(Click continue if you receive a secure connection error)
-And enter the password you saved during the VM set up in Azure.
+4. Once done successfully, you should see a screen like this.
 </p><hr>
 
 <br />
@@ -65,7 +63,7 @@ And enter the password you saved during the VM set up in Azure.
 </p>
 <p>
 6. Successful set up of Remote Desktop accessing Azure Virtual Machine.
-Note: on Macs, you can use a 3-finger swipe to view the full screen Remote Desktop 
+ 
 
 </p><hr>
 
