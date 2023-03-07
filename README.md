@@ -22,21 +22,21 @@ Locate the VM's Public IP address, and Copy it (you may be able to hover over it
 <br />
 
 <p>
-<img src="https://i.imgur.com/88GFsPV.png" height="80%" width="80%" alt="Open Remote Desktop"/>
+<img src="https://i.imgur.com/1SzKqRT.png" height="80%" width="80%" alt="Open Remote Desktop"/>
 </p>
 <p>
-2. Open your Microsoft Remote Desktop software, and click "Add PC"
+2. Next click on the start menu and type in "Remote Desktop Connection"
 </p><hr>
 
 <br />
 
 <p>
-<img src="https://i.imgur.com/SKNmNzq.png" height="80%" width="80%" alt="Connect VM"/>
+<img src="https://i.imgur.com/TqA1QKk.png" height="80%" width="80%" alt="Connect VM"/>
 </p>
 <p>
-3. In Computer name, paste the VM's Public IP address.
+3. Copy the IP address and paste it where it says computer. 
 	Enter the user account that you saved with the Virtual Machine set up.
-	You may choose to add a computer name to assist you, and then click "Add".
+	If a security message pops up click yes and you should continue.
 </p><hr>
 <br />
 
