@@ -13,7 +13,7 @@ This tutorial outlines the set up for Microsoft Remote Desktop to connect to an 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/gltnZJj.png" height="40%" width="40%" alt="Select Virtual Machine"/>   &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;      <img src="https://i.imgur.com/ZKBNv4J.png" height="40%" width="40%" alt="Copy VM's Public IP address"/>
+<img src="https://i.imgur.com/gltnZJj.png" height="40%" width="40%" alt="Select Virtual Machine"/>   &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;      <img src="https://i.imgur.com/EojrrW8.png" height="40%" width="40%" alt="Copy VM's Public IP address"/>
 </p>
 <p>
 1. In Azure, select your Virtual Machine, and click on it.
